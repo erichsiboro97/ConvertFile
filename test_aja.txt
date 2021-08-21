@@ -1,9 +1,1 @@
-
-dataPenduduk 
-umur 24
-nama erich
-pekerjaan wiraswasta
-gajiPerBulan 12.000000
-jamKerja 08 00 10
-
-
+{dataPenduduk={umur=24,nama=erich,pekerjaan=wiraswasta,agama=katolik,tempatLahir=purwakarta,status=lajang}}
