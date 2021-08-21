@@ -104,7 +104,7 @@ public class ReadTextFile implements Runnable{
 								.replace("}", "")
 								.replace("[", "[\n  ")
 								.replace("]", "\n]")
-								.replaceAll(", ", "\n")
+								.replaceAll(",", "\n")
 								.replaceAll(",", "").replaceAll(",+", "");
 
 						//cek isi -o
