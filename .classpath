@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Project/PROGRAM/Telkom/picocli-4.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Project/PROGRAM/Telkom/java-json.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

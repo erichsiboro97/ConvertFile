@@ -1,0 +1,9 @@
+
+dataPenduduk 
+umur 24
+nama erich
+pekerjaan wiraswasta
+gajiPerBulan 12.000000
+jamKerja 08 00 10
+
+
